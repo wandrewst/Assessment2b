@@ -1,0 +1,11 @@
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\bin\Debug\netcoreapp2.1\Assessment2b.deps.json
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\bin\Debug\netcoreapp2.1\Assessment2b.runtimeconfig.json
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\bin\Debug\netcoreapp2.1\Assessment2b.runtimeconfig.dev.json
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\bin\Debug\netcoreapp2.1\Assessment2b.dll
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\bin\Debug\netcoreapp2.1\Assessment2b.pdb
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\obj\Debug\netcoreapp2.1\Assessment2b.csprojAssemblyReference.cache
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\obj\Debug\netcoreapp2.1\Assessment2b.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\obj\Debug\netcoreapp2.1\Assessment2b.AssemblyInfoInputs.cache
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\obj\Debug\netcoreapp2.1\Assessment2b.AssemblyInfo.cs
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\obj\Debug\netcoreapp2.1\Assessment2b.dll
+C:\Users\Grand Circus\source\repos\Assessment2b\Assessment2b\obj\Debug\netcoreapp2.1\Assessment2b.pdb
